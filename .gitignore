@@ -1,9 +1,25 @@
+# Virtual environments
 venv/
 .venv/
 
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
 
+# Environment variables
 .env
 
+# Jupyter
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
